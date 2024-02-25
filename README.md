@@ -2,7 +2,8 @@
 # Chicago-Crime-data
  
 
-I always see on the news how cities can be extremely dangerous places to live. I decided to see if that was really true and I picked Chicago for my data set. What makes this project stand out from my other projects is where I first used Tableau. I learned after using Tableau, while there is crime all over, it is usually bad around only a few areas of Chicago. 
+In light of the widespread perception portrayed in the media regarding the dangers of urban living, I undertook a comprehensive analysis to determine the validity of these claims. I strategically selected Chicago as the focal point of my investigation, leveraging data analytics to gain actionable insights. What sets this initiative apart is the integration of Tableau into our analytical toolkit, enabling us to visualize and comprehend complex datasets with unprecedented clarity and efficiency. Through this endeavor, I uncovered a nuanced understanding of crime dynamics in Chicago, revealing that while incidents are indeed prevalent across the city, they are notably concentrated in specific geographic areas. This insight not only enhances our understanding of urban safety but also presents strategic opportunities for targeted interventions and resource allocation.
+
 
 
 # Features
