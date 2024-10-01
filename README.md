@@ -1,9 +1,10 @@
-## Presentation for CEO:
+## Analysis for Chicago Crime Data:
 
-Chicago Crime Data Analysis
+Analyzing the Factors that contributed to Chicago Crime
 
-Introduction:
-In response to the pervasive portrayal of urban living as dangerous in the media, I conducted a comprehensive analysis to validate these claims. Chicago was chosen as the focal point, utilizing data analytics to gain actionable insights.
+Catherine Tippins 
+
+The purpose of this analysis was in response to the pervasive portrayal of urban living as dangerous in the media, I conducted a comprehensive analysis to validate these claims. Chicago was chosen as the focal point, utilizing data analytics to gain actionable insights.
 
 Key Points:
 
